@@ -150,5 +150,5 @@
 - https://rabotaem.nl/
 - https://www.youtube.com/c/NALOGNL/playlists
 
-♡ Удачи вам и хорошей жизни в Нидерландах! ♡  
+♡ Удачи вам и хорошей жизни в Нидерландах!  
 Ilya Kantor
