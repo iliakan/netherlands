@@ -149,3 +149,6 @@
 - https://www.nalog.nl/
 - https://rabotaem.nl/
 - https://www.youtube.com/c/NALOGNL/playlists
+
+Удачи вам и хорошей жизни в Нидерландах!
+
