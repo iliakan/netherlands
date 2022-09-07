@@ -47,7 +47,7 @@
 Ссылки:
 - https://expatax.nl/knowledge-base/international-school-fees-and-the-30-ruling/
 - https://www.belastingdienst.nl/wps/wcm/connect/en/individuals/content/coming-to-work-in-the-netherlands-30-percent-facility
-
+- https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/belastingdienst/business/payroll_taxes/you_are_not_established_in_the_netherlands_are_you_required_to_withhold_payroll_taxes/when_you_are_going_to_withhold_payroll_taxes/etraterritorial_costs_and_the_30percent-facility/content_of_the_facility/content_of_the_facility
 
 👉 **Беженцам/под временной защитой можно ли работать/получать доход и пособие от государства одновременно?**
 
