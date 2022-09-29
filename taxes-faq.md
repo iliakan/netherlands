@@ -98,7 +98,7 @@
 
 Бывает так, что работодатель не в курсе таких возможностей или же ссылается на ограничение налоговых возмещений, так называемое [WKR](https://business.gov.nl/regulation/work-related-costs-scheme/). Если простыми словами, оно заключается в том, что общий размер налоговых возмещений ограничен, и работодатель может вам сказать, что поэтому не может сделать вычет.
 
-Но нюанс заключается в том, что ряд возмещений не входят в этот лимит (в частности, школа не входит).
+Но нюанс заключается в том, что ряд возмещений не входят в WKR-лимит (в частности, школа не входит).
 
 Цитаты, подтверждающие эту позицию:
 1. https://business.gov.nl/regulation/work-related-costs-scheme/ - "**Aside** from the WKR you can reimburse certain expenses, provide benefits in kind or make provisions for your employees without tax liability. You can do this through specific exemptions...<some examples>" - здесь сказано, что под WKR не попадает ряд исключений (specific exemptions).
