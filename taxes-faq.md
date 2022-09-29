@@ -49,7 +49,7 @@
 
 Пример расчетов. Допустим вы должны были получать 100k€, а оплата школы составляет 10k€.
 
-- Обычно [ваши налоги со 100к составляют](https://thetax.nl/?year=2022&startFrom=Year&salary=100000&allowance=1&socialSecurity=1&retired=0&ruling=1&rulingChoice=normal) 28549€.
+- Обычно [ваши налоги со 100к составляют](https://thetax.nl/?year=2022&startFrom=Year&salary=100000&allowance=1&socialSecurity=1&retired=0&ruling=1&rulingChoice=normal), с учётом рулинга, 28549€.
 - При оплате школы работодателем ваша зарплата будет 90k, и [налоги будут](https://thetax.nl/?year=2022&startFrom=Year&salary=90000&allowance=1&socialSecurity=1&retired=0&ruling=1&rulingChoice=normal) 24637€.
 
 То есть, во втором случае вы платите около 4к евро меньше налогов. Это и есть экономия.
