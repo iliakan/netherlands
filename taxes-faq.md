@@ -96,6 +96,8 @@
 - Дополнительно еще 7750€.
 - Стоимость профессионального обучения для данного трудоустройства.
 
+На все эти расходы нужны инвойсы! Отели их обычно легко дают, а при покупке авиабилета лучше заранее проверить возможность получения инвойса, не все агенты его делают.
+
 Бывает так, что работодатель не в курсе таких возможностей или же ссылается на ограничение налоговых возмещений, так называемое [WKR](https://business.gov.nl/regulation/work-related-costs-scheme/). Если простыми словами, оно заключается в том, что общий размер налоговых возмещений ограничен, и работодатель может вам сказать, что поэтому не может сделать вычет.
 
 Но нюанс заключается в том, что ряд возмещений не входят в WKR-лимит (в частности, школа не входит).
@@ -103,6 +105,12 @@
 Цитаты, подтверждающие эту позицию:
 1. https://business.gov.nl/regulation/work-related-costs-scheme/ - "**Aside** from the WKR you can reimburse certain expenses, provide benefits in kind or make provisions for your employees without tax liability. You can do this through specific exemptions...<some examples>" - здесь сказано, что под WKR не попадает ряд исключений (specific exemptions).
 2. https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/belastingdienst/business/payroll_taxes/you_are_not_established_in_the_netherlands_are_you_required_to_withhold_payroll_taxes/when_you_are_going_to_withhold_payroll_taxes/etraterritorial_costs_and_the_30percent-facility/content_of_the_facility/content_of_the_facility - ""When you make use of the 30%-facility you may also issue the employee the following tax free reimbursements or provisions (**specific exemption**): .... <the school is here>..." - здесь явно сказано, что школа и еще ряд расходов являются такими исключениями. 
+  
+Оформить можно так: вы договариваетесь о размере возмещения (по инвойсам), затем вашу зарплату уменьшают на эту сумму, и перечисляют ее отдельно на ваш счет. В результате платите меньше налогов, на налогах как раз экономия (пример про школу смотрите выше в этом FAQ).
+ 
+Такая схема требует согласования до заключения контракта, чтобы не уменьшать зарплату постфактум (налоговая этого не любит).
+  
+Как резервный вариант, если контракт уже заключён, но первой оплаты еще не было, можно попробовать договориться о перезаключении контракта с новой суммой.
   
 Еще ссылки:
 - https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/winst/inkomstenbelasting/inkomstenbelasting_voor_ondernemers/verhuizing-en-dubbele-huisvesting
